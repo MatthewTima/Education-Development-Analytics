@@ -18,3 +18,7 @@ This project collects, cleans, and analyzes global education data (literacy rate
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/your-username/Education-Development-Analytics.git  
+
+## Data  
+This project dynamically scrapes data from Wikipedia. No pre-loaded datasets are included.  
+Run the notebooks to generate fresh data.  
