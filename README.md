@@ -9,6 +9,13 @@ This project collects, cleans, and analyzes global education data (literacy rate
 - **Statistical Analysis**: Calculates summary statistics (mean, median, mode) and ranks countries by key metrics.  
 - **MongoDB Integration**: Stores cleaned datasets in a NoSQL database for scalable querying and analysis.  
 
+## Data  
+This project dynamically scrapes data from Wikipedia. No pre-loaded datasets are included.  
+Run the notebooks to generate fresh data.  
+
+## Academic Assessment  
+A detailed analysis of this project's methodology, results, and limitations is available in the [accompanying paper](docs/Education_Development_Analysis_Paper.pdf).  
+
 ## Setup  
 ### Prerequisites  
 - Python 3.8+  
@@ -18,10 +25,3 @@ This project collects, cleans, and analyzes global education data (literacy rate
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/your-username/Education-Development-Analytics.git  
-
-## Data  
-This project dynamically scrapes data from Wikipedia. No pre-loaded datasets are included.  
-Run the notebooks to generate fresh data.  
-
-## Academic Assessment  
-A detailed analysis of this project's methodology, results, and limitations is available in the [accompanying paper](docs/Education_Development_Analysis_Paper.pdf).  
