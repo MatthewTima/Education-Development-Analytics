@@ -22,3 +22,6 @@ This project collects, cleans, and analyzes global education data (literacy rate
 ## Data  
 This project dynamically scrapes data from Wikipedia. No pre-loaded datasets are included.  
 Run the notebooks to generate fresh data.  
+
+## Academic Assessment  
+A detailed analysis of this project's methodology, results, and limitations is available in the [accompanying paper](docs/Education_Development_Analysis_Paper.pdf).  
