@@ -9,6 +9,9 @@ This project collects, cleans, and analyzes global education data (literacy rate
 - **Statistical Analysis**: Calculates summary statistics (mean, median, mode) and ranks countries by key metrics.  
 - **MongoDB Integration**: Stores cleaned datasets in a NoSQL database for scalable querying and analysis.  
 
+## Academic Assessment  
+A detailed analysis of this project's methodology, results, and limitations is available in the [accompanying paper](docs/Education_Development_Analysis_Paper.pdf).  
+
 ## Data Sources  
 This project extracts data from the following Wikipedia pages:  
 
@@ -29,9 +32,6 @@ This project extracts data from the following Wikipedia pages:
 ### Notes  
 - **Dynamic Scraping**: Data is fetched directly from Wikipedia at runtime. Results may vary if Wikipedia’s table structures change.  
 - **Attribution**: All data is publicly available under Wikipedia’s [Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License).   
-
-## Academic Assessment  
-A detailed analysis of this project's methodology, results, and limitations is available in the [accompanying paper](docs/Education_Development_Analysis_Paper.pdf).  
 
 ## Setup  
 ### Prerequisites  
